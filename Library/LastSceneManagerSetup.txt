@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/MenuPrincipal.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/EvaluacionCertificacion.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/SimulacionRealista.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/TutorialScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
