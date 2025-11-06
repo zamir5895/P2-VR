@@ -3,6 +3,10 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
   isSubScene: 0
+- path: Assets/LoadingScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
 - path: Assets/EvaluacionCertificacion.unity
   isLoaded: 1
   isActive: 1
@@ -12,6 +16,6 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/TutorialScene.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
   isSubScene: 0
