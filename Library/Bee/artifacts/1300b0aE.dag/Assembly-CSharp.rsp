@@ -478,6 +478,7 @@
 "Assets/Scripts/MenuPausa.cs"
 "Assets/Scripts/MenuPausaVisual.cs"
 "Assets/Scripts/PuntoInteraccion.cs"
+"Assets/Scripts/RayVisualizer.cs"
 "Assets/Scripts/SistemaProgreso.cs"
 "Assets/Scripts/SistemaProximidadRCP.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

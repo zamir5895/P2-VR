@@ -2,19 +2,29 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
-using TMPro; // Si usas TextMeshPro
+using TMPro;
 
 public class CargadorEscenas : MonoBehaviour
 {
     [Header("UI Referencias")]
     [SerializeField] private Slider barraProgreso;
-    [SerializeField] private TextMeshProUGUI textoPorcentaje; // O usa "Text" si no es TMP
+    [SerializeField] private TextMeshProUGUI textoPorcentaje;
     [SerializeField] private TextMeshProUGUI textoCargando;
+    [SerializeField] private CanvasGroup canvasGroup; // AÑADE ESTO
 
     [Header("Configuración")]
-    [SerializeField] private float tiempoMinimoLoading = 2f; // Para que se vea el loading
+    [SerializeField] private float tiempoMinimoLoading = 2f;
 
     private static string escenaDestino;
+
+    void Awake() // Cambia Start por Awake
+    {
+        // Asegurar que el Canvas esté visible inmediatamente
+        if (canvasGroup != null)
+        {
+            canvasGroup.alpha = 1f;
+        }
+    }
 
     void Start()
     {
@@ -38,43 +48,37 @@ public class CargadorEscenas : MonoBehaviour
 
         // Iniciar carga asíncrona
         AsyncOperation operacion = SceneManager.LoadSceneAsync(escenaDestino);
-        operacion.allowSceneActivation = false; // No activar hasta que esté listo
+        operacion.allowSceneActivation = false;
 
         // Mientras carga
         while (!operacion.isDone)
         {
-            // Calcular progreso (0.0 a 0.9 = cargando, 0.9 = listo)
             float progreso = Mathf.Clamp01(operacion.progress / 0.9f);
 
-            // Actualizar UI
             if (barraProgreso != null)
                 barraProgreso.value = progreso;
 
             if (textoPorcentaje != null)
                 textoPorcentaje.text = (progreso * 100f).ToString("F0") + "%";
 
-            // Animación del texto "Cargando..."
             if (textoCargando != null)
             {
                 int puntos = ((int)(Time.time * 2)) % 4;
                 textoCargando.text = "Cargando" + new string('.', puntos);
             }
 
-            // Cuando llegue al 90%, esperar tiempo mínimo
             if (operacion.progress >= 0.9f)
             {
                 float tiempoTranscurrido = Time.time - tiempoInicio;
-
                 if (tiempoTranscurrido >= tiempoMinimoLoading)
                 {
-                    // Completar barra
                     if (barraProgreso != null)
                         barraProgreso.value = 1f;
                     if (textoPorcentaje != null)
                         textoPorcentaje.text = "100%";
 
-                    yield return new WaitForSeconds(0.5f); // Pausa pequeña
-                    operacion.allowSceneActivation = true; // Activar escena
+                    yield return new WaitForSeconds(0.5f);
+                    operacion.allowSceneActivation = true;
                 }
             }
 
@@ -82,7 +86,6 @@ public class CargadorEscenas : MonoBehaviour
         }
     }
 
-    // Método estático para llamar desde otros scripts
     public static void CargarEscena(string nombreEscena)
     {
         escenaDestino = nombreEscena;

@@ -16,7 +16,7 @@ public class BotonCambiarEscena : MonoBehaviour
 
     void CambiarEscena()
     {
-        // Usar el cargador en lugar de LoadScene directo
+        // IMPORTANTE: Usar CargadorEscenas en lugar de SceneManager
         CargadorEscenas.CargarEscena(nombreEscena);
     }
 }
