@@ -1,0 +1,20 @@
+SiiNunit
+{
+global_input_config : _nameless.1c6.18d9.ae90 {
+ version: 1
+ ui_whitelisted: 0
+ ui_blacklisted: 0
+ display_names: 10
+ display_names[0]: "`sys.keyboard`|@@keyboard@@"
+ display_names[1]: "`sys.mouse`|@@i_mouse@@"
+ display_names[2]: "`di8.keyboard`|@@keyboard@@"
+ display_names[3]: "`di8.mouse`|@@i_mouse@@"
+ display_names[4]: "`dialogs.keyboard`|@@keyboard@@"
+ display_names[5]: "`dialogs.mouse`|@@i_mouse@@"
+ display_names[6]: "`fusion.mouse`|@@i_mouse@@"
+ display_names[7]: "`di8.'{87FC3E00-BFE0-11F0-800D-444553540000}|{C26E046D-0000-0000-0000-504944564944}'`|G923 Racing Wheel for Xbox One and PC"
+ display_names[8]: "`di8.'{87FC6510-BFE0-11F0-800E-444553540000}|{C26E046D-0000-0000-0000-504944564944}'`|G923 Racing Wheel for Xbox One and PC"
+ display_names[9]: "`hmd.device`|Device"
+}
+
+}

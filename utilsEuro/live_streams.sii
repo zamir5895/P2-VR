@@ -1,0 +1,19 @@
+SiiNunit
+{
+live_stream_def : _nameless.19b.7ca6.7b20 {
+ stream_data: 12
+ stream_data[0]: "https://stream.zeno.fm/ev3n0ts5u68uv|Radio Exitosa|Noticias|ES|128|0"
+ stream_data[1]: "https://stream.zeno.fm/37bmv4n7u68uv|Radio Felicidad|Baladas|ES|128|0"
+ stream_data[2]: "https://stream.zeno.fm/fvsf4kmf0k0uv|Radio Karibe\xc3\xb1a|Cumbia|ES|128|0"
+ stream_data[3]: "https://stream.zeno.fm/9y7wsqv5u68uv|Radio La Zona|Urbano|ES|128|0"
+ stream_data[4]: "https://stream.zeno.fm/7u3qsy8f0k0uv|Radio Moda|Cumbia/Reggaet\xc3\xb3n|ES|128|0"
+ stream_data[5]: "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43|Radio M\xc3\xa1gica|Cl\xc3\xa1sicos Ingl\xc3\xa9s|ES|128|0"
+ stream_data[6]: "https://stream.zeno.fm/k8u3fb25u68uv|Radio Nueva Q|Cumbia|ES|128|0"
+ stream_data[7]: "https://stream.zeno.fm/1d6qp5c5u68uv|Radio Onda Cero|Urbano|ES|128|0"
+ stream_data[8]: "https://stream.zeno.fm/xyymz6z5u68uv|Radio Origen Andino|Folklore|ES|128|0"
+ stream_data[9]: "https://stream.zeno.fm/u0e9q7s6u68uv|Radio Ox\xc3\xadgeno|Rock/Pop|ES|128|0"
+ stream_data[10]: "https://stream.zeno.fm/fqcq8k9f0k0uv|Radio Panamericana|Salsa/Latina|ES|128|0"
+ stream_data[11]: "https://stream.zeno.fm/h31f0frp0k0uv|Radio RPP Noticias|Noticias|ES|128|0"
+}
+
+}

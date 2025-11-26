@@ -1,0 +1,145 @@
+SiiNunit
+{
+patch_notes_info : _nameless.1c9.5294.2f20 {
+ lang_id: en_gb
+ content_id: "Thu, 18 Sep 2025 07:37:29 GMT"
+ messages: 17
+ messages[0]: _nameless.1c6.18b8.4810
+ messages[1]: _nameless.1c6.18b8.3f10
+ messages[2]: _nameless.1c6.18b8.4390
+ messages[3]: _nameless.1c6.18b8.4910
+ messages[4]: _nameless.1c6.18b8.5490
+ messages[5]: _nameless.1c6.18b8.4a10
+ messages[6]: _nameless.1c6.18b8.4410
+ messages[7]: _nameless.1c6.18b8.5410
+ messages[8]: _nameless.1c6.18b8.4490
+ messages[9]: _nameless.1c6.18b8.4990
+ messages[10]: _nameless.1c6.18b8.5890
+ messages[11]: _nameless.1c6.18b8.4b10
+ messages[12]: _nameless.1c6.18b8.4590
+ messages[13]: _nameless.1c6.18b8.4610
+ messages[14]: _nameless.1c6.18b8.4f10
+ messages[15]: _nameless.1c6.18b8.5110
+ messages[16]: _nameless.1c6.18b8.3a10
+}
+
+patch_notes_data : _nameless.1c6.18b8.4810 {
+ game_version: "1.43"
+ title: "1.43"
+ url: "https://blog.scssoft.com/2021/12/euro-truck-simulator-2-143-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Lyon City Revamp<br>- Viewpoints Addition<br>- Tollgate Update<br>- New Special Transport Routes<br>- New Iberia Roads<br>- General Bugfixes<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Dumper Trailers<br>- Michelin Tyre DLC Update<br>- MAN TGX EfficientLine 3<br><br><color value=@@clr_sel@@>UI<br><br><color value=@@clr_txt@@>- New Loading Screen Images<br>- World Map Legend Filters<br><br><color value=@@clr_sel@@>Other<br><br><color value=@@clr_txt@@>- Improved Controller Support<br>- Implemented Sound Attenuation<br>- MSDF Font Implementation"
+}
+
+patch_notes_data : _nameless.1c6.18b8.3f10 {
+ game_version: "1.44"
+ title: "1.44"
+ url: "https://blog.scssoft.com/2022/05/euro-truck-simulator-2-144-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Austria Rework<br>- Unmarked Road Exploration<br>- Distance Signs with Accurate Mileage System<br>-<margin left=8>Some older border crossings reworked in Beyond the Baltic Sea</margin><br>- Italian Tollgates Update<br>- Companies Logo Revisions<br>- UI Road Numbers in Corsica/Sardinia<br>- Other Map Improvements<color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- Mod Refund Feature<br>- Licensed vs Aftermarket UI in browsers<br>- Force Feedback Upgrade<br>- Adjustable Suspension Height<br>- Interior Camera Horizontal Lock<br>- Smart Sequential Shifting<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- New 2022 Interior option for Renault T<br>- Exterior Interior Models reworked for Renault T"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4390 {
+ game_version: "1.45"
+ title: "1.45"
+ url: "https://blog.scssoft.com/2022/07/euro-truck-simulator-2-145-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Hannover Rework<br>-<margin left=8>Krone Production Plant, Werlte (requires Krone Trailer Pack DLC)</margin><br><br><color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- Optional MOD Support for Convoys<br>- Custom City Intros for Austria and Hanover<br>- Rain Sensor Option<br>- Option to hide inaccessible road markers<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Cistern Trailers (Silo and Fuel Tank)<br>-<margin left=8>Krone Paper Liner, Krone Profi Liner Building, more Krone toys (requires Krone Trailer Pack DLC)</margin><br>- JOST Fifth Wheel Phase 1 implementation"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4910 {
+ game_version: "1.46"
+ title: Iberia
+ url: "https://blog.scssoft.com/2021/04/iberia-release-cruisingiberia-event.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "The Iberian Peninsula is full of rich and diverse landscapes, from semi-arid southeastern deserts to the green coniferous forests. Iberia is home to numerous historic villages and towns, narrow streets, old churches and impressive castles. Visit the capital of Spain, Madrid, the coastal capital of Portugal, Lisboa, a wide amount of coastal cities like M\xc3\xa1laga and Olh\xc3\xa3o, and many of the inland cities. Be an important part of the strong export economy and deliver cargo from Iberia through Europe.<br><br>Iberia is delightful, here's why:<br><br>-<margin left=8>Travel through the Tabernas Desert, often nicknamed 'mainland Europe's only desert'</margin><br>-<margin left=8>Connect Iberia to the rest of Europe with shipments from its busy ports</margin><br>-<margin left=8>Deliver car parts and whole cars to and from the various car factories to the shipping terminals</margin><br>-<margin left=8>Take a rest at truck stops and gas stations crafted to closely match their real-life counterparts</margin><br>-<margin left=8>See landmarks of all shapes and sizes, from medieval castles to statues of historical figures</margin><br>-<margin left=8>Enjoy the spectacular view of the coast and even the famous 'The Rock of Gibraltar' located on the other side of the bay from the coastal city of Algeciras</margin><br>-<margin left=8>Immerse yourself in new ambient sound, from the subtle sound of wind through the valleys to the tweeting of birds</margin><br>-<margin left=8>Explore mountainous areas with a wide range of colorful rocks</margin><br>-<margin left=8>Visit landmarks like the Guadiana International Bridge and get a bird's-eye view on it with the viewpoint feature</margin><br>-<margin left=8>Unlock Iberia-specific Steam achievements</margin>"
+}
+
+patch_notes_data : _nameless.1c6.18b8.5490 {
+ game_version: "1.46"
+ title: "1.46"
+ url: "https://blog.scssoft.com/2022/11/euro-truck-simulator-2-146-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- New Explorable Iberian Settlement and Company<br>- Iberian Regional Signage<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Cisterns - Chemical Trailers<br>-<margin left=8>DAF 2021 got custom infotainment implementation</margin><br>-<margin left=8>Infotainment/GPS screens on all trucks have switched off state separated from map zoom</margin><br>-<margin left=8>Cellphones and navigational devices got a custom implementation</margin><color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- New Gallery Feature<br>- Company Browser<br>- Custom City Intros<br>- Driveshaft Torque"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4a10 {
+ game_version: "1.47"
+ title: "1.47"
+ url: "https://blog.scssoft.com/2023/04/euro-truck-simulator-2-147-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Several cities in Germany reworked<br>- Uneven Surface Simulation<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Gas Cisterns<br>- Ownable Livestock Trailers<br>-<margin left=8>Adaptive Cruise Control & Emergency Brake System</margin><color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>-<margin left=8>Custom City Intros for Road to the Black Sea DLC</margin><br>- Addition of Sound Direction Filter<br><margin left=8>Performance Improvements (night, bad weather, dense traffic)</margin><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>- Career History UI Redesign<br>- In Game Update Log<br>- Economy Reset Teleport"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4410 {
+ game_version: "1.48"
+ title: "1.48"
+ url: "https://blog.scssoft.com/2023/08/euro-truck-simulator-2-148-release.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Germany Rework <br><color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>-<margin left=8>Electronic Stability Controls (Anti-Lock Braking System + Traction Control)</margin><br>- Reworked Vehicle Transport Trailers<br><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>-<margin left=8>Per-Country Map Exploration</margin><br>- Cities in the Gallery<br>-<margin left=8>Options Sliders now feature numbers</margin><br>-<margin left=8>Input Wizard Control Selection UI Overhaul</margin><color value=@@clr_sel@@><br><br>Other<br><br><color value=@@clr_txt@@>- Third-Party Mod Structure Change"
+}
+
+patch_notes_data : _nameless.1c6.18b8.5410 {
+ game_version: "1.48"
+ title: "West Balkans"
+ url: "https://blog.scssoft.com/2023/10/west-balkans-release.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "Discover, deliver, and expand your trucking company to Albania, Bosnia and Herzegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia, and Slovenia.<br><br>Embark on an odyssey across our artistic depiction of the West Balkans, a huge playground waiting for you to uncover its wonders. Enjoy the journey, savouring each moment as you discover many features along the way:<br><br>-<margin left=8>Travel through 8 new captivating countries, each with its unique charm.</margin><br>-<margin left=8>Discover 14 explorable cities including Split and Belgrade</margin><br>-<margin left=8>Take your truck on a drive through 30 vibrant towns</margin><br>-<margin left=8>Experience the region's stunning nature, from Durmitor National Park to Bjeshk\xc3\xabt e Nemuna National Park, with iconic mountains, hills, and mesmerizing sea views</margin><br>-<margin left=8>Explore unique depots for the aluminium industry, chemical factories and oil wells</margin><br>-<margin left=8>Take your cargo to 3 industrial ports along the Danube River (Belgrade, Novi Sad, Osijek)</margin><br>-<margin left=8>Marvel at the beauty of the historical city centres in Split, Mostar, Sarajevo, Pristina, and more</margin><br>-<margin left=8>Cross the borders at over 20 unique crossings</margin><br>-<margin left=8>Enjoy the scenic countryside with 15 viewpoints and take a photo with your truck at 20 iconic landmarks</margin><br><br>Remember that beyond the initial sights, this region holds hidden gems waiting to be explored. Be ready, because the next thrilling adventure might be just around the corner."
+}
+
+patch_notes_data : _nameless.1c6.18b8.4490 {
+ game_version: "1.49"
+ title: "1.49"
+ url: "https://blog.scssoft.com/2023/11/euro-truck-simulator-2-149-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Visual<br><br><color value=@@clr_txt@@>- HDR Skyboxes, Moon and New Weather Effects<color value=@@clr_sel@@><br><br>Vehicle<br><br><color value=@@clr_txt@@>-<margin left=8>Automatic Headlights</margin><color value=@@clr_sel@@><br><br>Other<br><br><color value=@@clr_txt@@>-<margin left=8>Used Truck Dealers</margin><br>- Keybind Modifiers"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4990 {
+ game_version: "1.50"
+ title: "1.50"
+ url: "https://blog.scssoft.com/2024/05/euro-truck-simulator-2-150-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Switzerland Rework<br><color value=@@clr_txt@@>- Germany Rework - Rhine region<br><color value=@@clr_txt@@>- Scania Demo Centre<br><color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- <margin left=8>MAN TGX Update</margin><br>- Lane assistant feature added<br>- Wielton Trailer Pack DLC Update<br><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>- <margin left=8>Substantial UI design update (Home screen redesign, persistent Status Bar, Quick Menu, new fonts, icons and more)</margin><br>- Settings options show information about what they do<br><color value=@@clr_sel@@><br><br>Visual<br><br><color value=@@clr_txt@@>- Improvements in the rendering system<br><color value=@@clr_txt@@>- Temporal Anti-Aliasing feature added<br><color value=@@clr_txt@@>- Cascaded shadow updates<br><color value=@@clr_txt@@>- Soft particles<br><color value=@@clr_txt@@>- Lit/shadowed smoke<br><color value=@@clr_txt@@>- Far shadows<br><color value=@@clr_txt@@>- Optimized light computation<br><color value=@@clr_txt@@>- Frame rate limiter added<color value=@@clr_sel@@><br><br>Sound<br><br><color value=@@clr_txt@@>- Brake squeaking sounds added"
+}
+
+patch_notes_data : _nameless.1c6.18b8.5890 {
+ game_version: "1.51"
+ title: "1.51"
+ url: "https://blog.scssoft.com/2024/09/euro-truck-simulator-2-151-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- <margin left=8>Germany Rework project - Bremen, Kassel, Osnabr\xc3\xbcck and Magdeburg</margin><br><br><color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- Custom city intros for Italia and Beyond the Baltic Sea DLCs<br>- Automatic differential lock option<br>- Automatic blind spot sensor option<br><br><color value=@@clr_sel@@>Visuals<br><br><color value=@@clr_txt@@>- Enhanced interior cabin shadows in the truck cabin<br><br><color value=@@clr_sel@@>UI<br><br><color value=@@clr_txt@@>- New title screen<br>- Search bar added to the settings menu<br>- <margin left=8>Accessibility and Interface categories added to the settings menu</margin><br>- Improved changing of desktop background<br>- New controller config"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4b10 {
+ game_version: "1.52"
+ title: "1.52 \xe2\x80\x93 Driving Academy"
+ url: "https://blog.scssoft.com/2024/09/152-update-driving-academy.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "Driving Academy teaches players truck driving, from basics to complex parking, with detailed instructions, diagrams, and tips. This new module offers increasingly challenging scenarios, inspired by real-life lessons. A new replay feature also lets drivers review their performance<br><br><color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- <margin left=8>Driving Academy game module</margin><br><br><color value=@@clr_sel@@>UI<br><br><color value=@@clr_txt@@>- <margin left=8>New in-game gamepad mapping mode</margin>"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4590 {
+ game_version: "1.53"
+ title: "1.53"
+ url: "https://blog.scssoft.com/2024/11/euro-truck-simulator-2-153-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- <margin left=8>Germany Rework project - M\xc3\xbcnchen, Mannheim, Leipzig, Dresden and Berlin</margin><br><br><color value=@@clr_sel@@>Vehicle<br><br><color value=@@clr_txt@@>- Volvo FH Series 4 Rework<br><br><color value=@@clr_sel@@>UI<br><br><color value=@@clr_txt@@>-Visualization of changed options in the settings<br>- <margin left=8>Smooth and Auto camera centring</margin>"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4610 {
+ game_version: "1.53"
+ title: Greece
+ url: "https://blog.scssoft.com/2024/12/greece-dlc-release.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "Embark on an exciting journey to the captivating landscapes of Greece, where every route unveils the country's breathtaking beauty and rich history. Explore the charm of inland Greece and discover enchanting islands. Picture yourself cruising through postcard-perfect villages, navigating winding roads, and passing iconic landmarks, immersing yourself in the centuries-old tapestry of Greek culture.<br><br>Get ready for a journey that goes beyond the ordinary, celebrating the sun-kissed coastlines and cultural wonders of this Mediterranean gem. Your trucking adventures are about to reach new heights:<br><br>-<margin left=8>Explore 15 major cities across Greece, including Athens and Thessaloniki, alongside smaller towns and settlements.</margin><br>-<margin left=8>Travel via Ferry to the islands of Lesbos, Chios, Kefalonia, Crete and Rhodes.</margin><br>-<margin left=8>Discover unique historical and natural landmarks including the Meteora Monasteries, the Fortress of Mytilene, Mount Olympus, the Corinth Canal and more!</margin><br>-<margin left=8>Travel through diverse terrains, from historical cities to coastal roads and mountainous regions.</margin><br>-<margin left=8>Drive across modern highways, winding country roads, and complex ports.</margin><br>-<margin left=8>Deliver to unique depots such as Hotels, olive oil processing plants, marble quarries, and the bustling Piraeus port.</margin><br>-<margin left=8>Discover a variety of viewpoints highlighting the Greek landscape and significant landmarks.</margin><br>"
+}
+
+patch_notes_data : _nameless.1c6.18b8.4f10 {
+ game_version: "1.54"
+ title: "1.54"
+ url: "https://blog.scssoft.com/2025/04/euro-truck-simulator-2-154-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- <margin left=8>Cargo System Redefined</margin><br>- Driving Academy Rewards<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Volvo FH Series 5, Volvo FH Series 6, and Iveco S-Way added to Driving Academy<br><br><color value=@@clr_sel@@>Visual<br><br><color value=@@clr_txt@@>- <margin left=8>Truck Adjustment Menu Redesign</margin><br><br><color value=@@clr_sel@@>Other<br><br><color value=@@clr_txt@@>- <margin left=8>PhysX Implementation</margin>"
+}
+
+patch_notes_data : _nameless.1c6.18b8.5110 {
+ game_version: "1.55"
+ title: "1.55"
+ url: "https://blog.scssoft.com/2025/07/euro-truck-simulator-2-155-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- <margin left=8>Driving Academy - Truck Driving Proficiency</margin><br>- <margin left=8>Map improvements - \"My Location\" hotkey</margin><br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- <margin left=8>FH Tuning Pack DLC Update for Volvo FH Series 6</margin><br><br><color value=@@clr_sel@@>Visual<br><br><color value=@@clr_txt@@>- <margin left=8>Custom city intros for Vive la France ! DLC</margin><br>- <margin left=8>Mail UX redesign</margin><br>- <margin left=8>Options QoL Improvements - Graphics settings visualisation</margin><br><br><color value=@@clr_sel@@>Other<br><br><color value=@@clr_txt@@>- <margin left=8>Steam achievements update with text and icon improvements</margin><br>- <margin left=8>Save manager improvements</margin><br>- <margin left=8>Asynchronous loading</margin>"
+}
+
+patch_notes_data : _nameless.1c6.18b8.3a10 {
+ game_version: "1.56"
+ title: "1.56"
+ url: "https://blog.scssoft.com/2025/09/euro-truck-simulator-2-156-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- <margin left=8>Camera Zoom - Hold/Toggle</margin><br><br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- <margin left=8>HS-Schoch Tuning Pack DLC Update</margin><br><color value=@@clr_txt@@>- <margin left=8>Special Transport DLC Update - CZ LOKO</margin><br><color value=@@clr_txt@@>- <margin left=8>Schmitz Cargobull Trailer Pack DLC Update </margin><br><br><color value=@@clr_sel@@>Visual<br><br><color value=@@clr_txt@@>- <margin left=8>Height Blend</margin><br><br><color value=@@clr_sel@@>UI<br><br><color value=@@clr_txt@@>- <margin left=8>New Career Creation and Start-up Flow</margin><br>- <margin left=8>Management UI/UX Improvements</margin><br><br><color value=@@clr_sel@@>Other<br><br><color value=@@clr_txt@@>- <margin left=8>DLC Browser</margin>"
+}
+
+}
